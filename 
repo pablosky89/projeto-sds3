@@ -1,0 +1,23 @@
+[33mcommit 159ea929ec5457f18a7af8a1954137d32f46b357[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Pablo Sanhueza <pablo.sanhueza.fontalba@gmail.com>
+Date:   Mon May 3 16:04:17 2021 -0300
+
+    Basic static component
+
+[33mcommit 6645c41d1bfe7100ab815f955cc0f9952627ca8c[m
+Author: Pablo Sanhueza <pablo.sanhueza.fontalba@gmail.com>
+Date:   Mon May 3 15:27:54 2021 -0300
+
+    Bootstrap imported
+
+[33mcommit d0168628d9c968b8624df108b7151b5a186f3994[m
+Author: Pablo Sanhueza <pablo.sanhueza.fontalba@gmail.com>
+Date:   Mon May 3 12:25:35 2021 -0300
+
+    Project clean
+
+[33mcommit 1123def52bb53c0b636b806808a3389cc4fbeff2[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Pablo Sanhueza <pablo.sanhueza.fontalba@gmail.com>
+Date:   Mon May 3 11:15:38 2021 -0300
+
+    Project created
